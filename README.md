@@ -1,6 +1,6 @@
 # Rubik-s-cube
-![](Rubik's cube.gif)
-![](Rubik's cube.png)
+![](Rubik's%20cube.gif)
+![](Rubik's%20cube.png)
 
 
  
